@@ -1,1 +1,1 @@
-# HackerRank-Problem-Solve---Python
+# HackerRank Solve-Python
